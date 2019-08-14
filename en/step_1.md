@@ -26,10 +26,15 @@ Now you’re going to write a real postcard. Your Code Club Facilitator will hav
 ADD IMAGE
 
 Here are some instructions on how to write your postcard - the instructions underlined in italics are also given on the printed postcard as well:
-Choose a friend or fellow student to write to about Code Club. Try choosing someone who you think would really benefit from the experience and, especially, someone who wouldn’t usually consider attending the club.
+
+<i> Choose a friend who hasn't come to Code Club yet, and write to them about Code Club. Tell them about what you have learned in Code Club. Then tell them some of the skills that they can learn if they come too.</i>
+
+Try choosing someone who you think would really benefit from the experience and, especially, someone who wouldn’t usually consider attending the club.
 
 In section ‘Dear’, write your friend or fellow student’s first name. Don’t forget on the right-hand side of the postcard to also write their name again in the ‘To’ section with their surname as well as their school address in the ‘Address’ section.
+
 In section ‘Message’, start your personal note to your friend or fellow student with what you have learned by attending Code Club. Then tell some of the skills that they will develop if they attend Code Club.
+
 In section ‘From’, write your first name and surname.
 
 That’s it! Don't forget to give the postcard to your Code Club facilitator.
