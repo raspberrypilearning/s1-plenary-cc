@@ -7,13 +7,19 @@ There are 3 sections in the Plenary:
 
 ### Sorting Game
 
-Please play the Skills Sorting Game again. Click on the green flag to begin the Skills Sorting game again. Tick the activity off once you have completed it.
+--- task ---
 
-https://scratch.mit.edu/projects/80628358
+Please play the Skills Sorting Game again. Click on the green flag to begin the Skills Sorting game again. Tick the activity off once you have completed it.
 
 <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/80628358/?autostart=false" frameborder="0" scrolling="no"></iframe>
 
+--- /task ---
+
 ### Postcard
+
+TO DO - ADD ITALICS BOLD ETC AND TIDY THIS UP
+
+-- task ---
 
 Now you’re going to write a real postcard. Your Code Club Facilitator will have one for you. The postcard looks like this:
 
@@ -26,5 +32,17 @@ In section ‘Message’, start your personal note to your friend or fellow stud
 In section ‘From’, write your first name and surname.
 That’s it! Now simply complete the post-activity survey below and you’ve finished a whole module. Well done!
 
+--- /task ---
 
 ### Post-Module Survey
+
+--- task ---
+
+Please complete this post-module survey before you move on to another module’.
+Click finish when you’re done :)
+
+<script id="ss-embed-734054">(function(d,w){var s,ss;ss=d.createElement('script');ss.type='text/javascript';ss.async=true;ss.src=('https:'==d.location.protocol?'https://':'http://')+'www.smartsurvey.co.uk/s/r/embed.aspx?i=627146&c=734054';s=d.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ss, s);})(document,window);</script><div>Create your own online surveys with <a href="https://www.smartsurvey.co.uk">SmartSurvey</a>.</div>
+
+--- /task ---
+
+ADD BUTTON?
