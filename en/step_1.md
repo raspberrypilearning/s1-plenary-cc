@@ -27,7 +27,7 @@ ADD IMAGE
 
 Here are some instructions on how to write your postcard - the instructions underlined in italics are also given on the printed postcard as well:
 
-<i> Choose a friend who hasn't come to Code Club yet, and write to them about Code Club. Tell them about what you have learned in Code Club. Then tell them some of the skills that they can learn if they come too.</i>
+<i> <u> Choose a friend who hasn't come to Code Club yet, and write to them about Code Club. Tell them about what you have learned in Code Club. Then tell them some of the skills that they can learn if they come too.</u></i>
 
 Try choosing someone who you think would really benefit from the experience and, especially, someone who wouldn’t usually consider attending the club.
 
