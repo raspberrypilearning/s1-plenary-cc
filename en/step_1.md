@@ -1,58 +1,30 @@
-## Introduction
+## Plenary
 
-Add project description here. What will learners be making?
+There are 3 sections in the Plenary:
+1. Sorting Game (again)
+2. Postcard; and
+3. Post-Module Survey.
 
-### What you will make
+### Sorting Game
 
---- no-print ---
-Add instructions for using the embedded content here.
+Please play the Skills Sorting Game again. Click on the green flag to begin the Skills Sorting game again. Tick the activity off once you have completed it.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+https://scratch.mit.edu/projects/80628358
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/80628358/?autostart=false" frameborder="0" scrolling="no"></iframe>
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+### Postcard
 
-+ Describe hardware here
+Now you’re going to write a real postcard. Your Code Club Facilitator will have one for you. The postcard looks like this:
 
-### Software
+ADD IMAGE
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Here are some instructions on how to write your postcard - the instructions in underlined in italics are also given on the printed postcard as well:
+Choose a friend or fellow student to write to about Code Club. Try choosing someone who you think would really benefit from the experience and, especially, someone who wouldn’t usually consider attending the club.
+In section ‘Dear’, write your friend or fellow student’s first name. Don’t forget on the right-hand side of the postcard to also write their name again in the ‘To’ section with their surname as well as their school address in the ‘Address’ section.
+In section ‘Message’, start your personal note to your friend or fellow student with what you have learned by attending Code Club. Then tell some of the skills they will develop if they attend Code Club.
+In section ‘From’, write your first name and surname.
+That’s it! Now simply complete the post-activity survey below and you’ve finished a whole module. Well done!
 
-### Downloads
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+### Post-Module Survey
