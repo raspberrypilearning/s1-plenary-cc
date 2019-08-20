@@ -21,9 +21,9 @@ Please play the Skills Sorting game again. Click on the green flag to begin. Don
 
 Now you’re going to write a real postcard. Your Code Club Facilitator will have one for you. The postcard looks like this:
 
-![Postcard Front](Postcard.png)
+![Postcard Front](images/Postcard.png)
 
-![Postcard Back](Postcardback.png)
+![Postcard Back](images/Postcardback.png)
 
 Here are some instructions on how to write your postcard - the instructions underlined in italics are also given on the printed postcard as well:
 
