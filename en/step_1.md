@@ -23,9 +23,9 @@ TO DO - ADD ITALICS BOLD ETC AND TIDY THIS UP
 
 Now you’re going to write a real postcard. Your Code Club Facilitator will have one for you. The postcard looks like this:
 
-![Postcard Front](Wish_You_Were_Here_Postcard_V5_DIGITAL.png)
+![Postcard Front](Postcard.png)
 
-![Postcard Back](Wish_You_Were_Here_Postcard_V5_DIGITAL_back.png)
+![Postcard Back](Postcardback.png)
 
 Here are some instructions on how to write your postcard - the instructions underlined in italics are also given on the printed postcard as well:
 
