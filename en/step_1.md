@@ -23,7 +23,9 @@ TO DO - ADD ITALICS BOLD ETC AND TIDY THIS UP
 
 Now you’re going to write a real postcard. Your Code Club Facilitator will have one for you. The postcard looks like this:
 
-ADD IMAGE
+![Postcard Front](Wish_You_Were_Here_Postcard_V5_DIGITAL.png)
+
+![Postcard Back](Wish_You_Were_Here_Postcard_V5_DIGITAL_back.png)
 
 Here are some instructions on how to write your postcard - the instructions in underlined in italics are also given on the printed postcard as well:
 Choose a friend or fellow student to write to about Code Club. Try choosing someone who you think would really benefit from the experience and, especially, someone who wouldn’t usually consider attending the club.
