@@ -17,9 +17,7 @@ Please play the Skills Sorting game again. Click on the green flag to begin. Don
 
 ### 2. Postcard
 
-TO DO - ADD ITALICS BOLD ETC AND TIDY THIS UP
-
--- task ---
+--- task ---
 
 Now you’re going to write a real postcard. Your Code Club Facilitator will have one for you. The postcard looks like this:
 
