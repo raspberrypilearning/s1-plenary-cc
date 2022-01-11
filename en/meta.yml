@@ -1,9 +1,10 @@
+---
 title: Plenary
 hero_image: images/banner.png
 description: GBICi5-Scratch-1-Plenary description
 version: 4
 listed: false
 copyedit: false
-last_tested: "2019-08-14"
+last_tested: '2019-08-14'
 steps:
-  - title: Plenary
+- title: Plenary
